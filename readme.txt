@@ -6,4 +6,4 @@ Git is a free software
 
 adding something else into this file
 
-adding something more
+adding something more... and more

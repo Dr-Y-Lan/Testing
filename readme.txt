@@ -1,3 +1,5 @@
+bug fixed
+
 Testing out the new feature
 
 This file is on the dev branch.
